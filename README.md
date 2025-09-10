@@ -32,7 +32,7 @@ Processing and interpreting data to provide insights that support decision-makin
 ## 🎵 Spotify Listening Behavior Analysis — Power BI
 - Built a **Power BI dashboard** analyzing **7,383 albums, 4,112 artists, and 13,665 tracks** (2016–2024).  
 - Conducted **time-series analysis** with YoY comparisons and segmentation by **platform, genre, and listening patterns**.  
-- Processed a **large dataset (19B+ ms of audio data)**; computed metrics for listening time, frequency, and behavior.  
+- Processed a **large dataset**; computed metrics for listening time, frequency, and behavior.  
 - Designed interactive dashboards with **time-series charts, filters, and conditional formatting**.  
 - Delivered insights on **performance tracking, user segmentation, and consumption trends**.  
 
