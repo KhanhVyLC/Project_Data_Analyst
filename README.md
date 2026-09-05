@@ -10,6 +10,8 @@ Processing and interpreting data to provide insights that support decision-makin
 - Tracked KPIs: **AOV $562.6, repeat rate 46%, LTV $943.6, purchase frequency 1.68**.  
 - Visualized sales funnel by **region, product type, and payment method**, highlighting retention and purchasing trends.  
 - Provided insights to optimize **marketing campaigns, customer segmentation, and revenue growth strategies**.  
+<img width="2000" height="1198" alt="image" src="https://github.com/user-attachments/assets/3a1af122-2dc4-4da6-8bb4-739005ae59a0" />
+<img width="2000" height="1198" alt="image" src="https://github.com/user-attachments/assets/5646a83e-7033-482b-a0a0-cfde226de972" />
 
 ---
 ## 🥗 Grocery Sales Analysis — Excel
