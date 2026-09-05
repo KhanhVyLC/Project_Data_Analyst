@@ -6,6 +6,7 @@ Processing and interpreting data to provide insights that support decision-makin
 # 📊 Selected Data Analytics Projects
 
 ## 🛒 Shopify Sales & Customer Funnel Report — Power BI
+- Source: file Shopify Sales.xlsx
 - Built an interactive **Power BI dashboard** analyzing **$4.18M net sales** and **4,431 customers**.  
 - Tracked KPIs: **AOV $562.6, repeat rate 46%, LTV $943.6, purchase frequency 1.68**.  
 - Visualized sales funnel by **region, product type, and payment method**, highlighting retention and purchasing trends.  
@@ -15,6 +16,7 @@ Processing and interpreting data to provide insights that support decision-makin
 
 ---
 ## 🥗 Grocery Sales Analysis — Excel
+- Source: file BlinkIT Grocery Data_Excel.xlsx
 - Designed an **Excel dashboard** analyzing **$1.2M sales across 8.5K items**.  
 - Explored revenue distribution by **store size (High 42%, Medium 37%, Small 21%)**, outlet type, and location.  
 - Segmented performance by **fat content (Regular 65%, Low Fat 35%)** and **product categories** (Snack Foods, Fruits & Vegetables, Household, Frozen Foods).  
@@ -24,6 +26,7 @@ Processing and interpreting data to provide insights that support decision-makin
 ---
 
 ## 🍕 Pizza Sales Analysis — Power BI
+- Source: file pizza_sales.csv
 - Developed a **Power BI dashboard** analyzing **47K+ pizzas sold** with **$785K revenue** and **20.5K orders**.  
 - Identified trends by **time (weekends, evenings), category (Classic 27%), and size (Large 46%)**.  
 - Highlighted **best sellers** (Thai Chicken Pizza, Classic Deluxe Pizza) and **worst sellers** (Brie Carre Pizza).  
@@ -36,6 +39,7 @@ Processing and interpreting data to provide insights that support decision-makin
 
 
 ## 🎵 Spotify Listening Behavior Analysis — Power BI
+- Source: file spotify_history.csv
 - Built a **Power BI dashboard** analyzing **7,383 albums, 4,112 artists, and 13,665 tracks** (2016–2024).  
 - Conducted **time-series analysis** with YoY comparisons and segmentation by **platform, genre, and listening patterns**.  
 - Processed a **large dataset**; computed metrics for listening time, frequency, and behavior.  
