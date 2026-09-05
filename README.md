@@ -28,6 +28,8 @@ Processing and interpreting data to provide insights that support decision-makin
 - Identified trends by **time (weekends, evenings), category (Classic 27%), and size (Large 46%)**.  
 - Highlighted **best sellers** (Thai Chicken Pizza, Classic Deluxe Pizza) and **worst sellers** (Brie Carre Pizza).  
 - Delivered insights for **menu optimization, promotions, and inventory planning**.  
+<img width="2000" height="1121" alt="image" src="https://github.com/user-attachments/assets/85881dee-62b6-49b6-b4e8-6a9e30d29b81" />
+<img width="2000" height="1121" alt="image" src="https://github.com/user-attachments/assets/c59f68af-9093-431a-a103-981d763796e3" />
 
 ---
 
@@ -39,4 +41,8 @@ Processing and interpreting data to provide insights that support decision-makin
 - Processed a **large dataset**; computed metrics for listening time, frequency, and behavior.  
 - Designed interactive dashboards with **time-series charts, filters, and conditional formatting**.  
 - Delivered insights on **performance tracking, user segmentation, and consumption trends**.  
+<img width="2000" height="1342" alt="image" src="https://github.com/user-attachments/assets/ed03e40c-3260-4b1f-af0f-06ba7623b311" />
+<img width="2000" height="1342" alt="image" src="https://github.com/user-attachments/assets/a707a419-3b78-4763-b23b-54b9f44a1d46" />
+<img width="2000" height="1342" alt="image" src="https://github.com/user-attachments/assets/6d834f84-a1ad-4a7f-a9da-60a24aeb9c06" />
+
 
