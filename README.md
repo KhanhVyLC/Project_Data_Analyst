@@ -17,6 +17,7 @@ Processing and interpreting data to provide insights that support decision-makin
 - Explored revenue distribution by **store size (High 42%, Medium 37%, Small 21%)**, outlet type, and location.  
 - Segmented performance by **fat content (Regular 65%, Low Fat 35%)** and **product categories** (Snack Foods, Fruits & Vegetables, Household, Frozen Foods).  
 - Enabled data-driven decisions for **retail strategy and product mix optimization**.  
+<img width="1439" height="744" alt="image" src="https://github.com/user-attachments/assets/3a06cf27-3ff1-49ae-abe6-17b2eec1c178" />
 
 ---
 
